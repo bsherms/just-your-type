@@ -1,23 +1,23 @@
 html {
   font-family: 'Open Sans Condensed', sans-serif;
-  font-family: 'Parisienne', cursive;
+  font-family: Parisienne, cursive;
 }
 
 body {
-  background-color: #F5DEB3;
+  background-color: #f5deb3;
 }
 
 .script {
-  font-family: 'Parisienne', cursive;
+  font-family: Parisienne, cursive;
   color: #fff;
 }
 
 .sans-serif-1 {
   font-family: 'Open Sans Condensed', sans-serif;
-  color: #FFA07A;
+  color: #ffa07a;
 }
 
 .sans-serif-2 {
   font-family: 'Open Sans Condensed', sans-serif;
-  color: #48D1CC;
+  color: #48d1cc;
 }
